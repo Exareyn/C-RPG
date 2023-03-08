@@ -1,5 +1,5 @@
 # My_RPG
-Game realise by Renaud de Leiris, Jocelin Lelievre, Alexandre Calmels and me.
+Game realise by Renaud de Leiris, Jocelin Lelievre, Alexandre Calmels and Martin Rougeron.
 ## Ghost of Lies
 It's a rpg game were you're a soldier in a fantasy world. Your goal: kill the 2 bosses.	
 ## Game features
@@ -27,4 +27,3 @@ make
 ```bash
 ./my_rpg
 ```
-See more on : https://portfolio-martin-rougeron.netlify.app/Rpg
